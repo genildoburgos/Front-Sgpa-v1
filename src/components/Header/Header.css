@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 20px;
+    background-color: #0E2141;
+    color: white;
+    font-weight: bolder;
+  }
+
+  .header-name{
+    font-size: 35px;
+  }
+  
+  .header-logo h1 {
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  

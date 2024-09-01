@@ -1,0 +1,18 @@
+.container{
+    margin-top: 50px;
+}
+
+.TurmasPage-container{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.TurmasPage-container h1{
+    font-size: 3rem;
+    color: #333;
+}
+
+.TurmasPage-container p{
+    font-size: 1.2rem;
+    color: #666;
+}

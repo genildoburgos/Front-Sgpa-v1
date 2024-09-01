@@ -1,0 +1,29 @@
+.gerenciar-vagas-page {
+    padding: 20px;
+  }
+  
+  .vaga-lista {
+    margin-bottom: 20px;
+  }
+  
+  .btn-criar-vaga {
+    padding: 10px 20px;
+    background-color: #FD9800;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .btn-voltar{
+    padding: 10px 20px;
+    margin-left: 40px;
+    background-color: #fd3700;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .btn-criar-vaga:hover {
+    background-color: #e68a00;
+  }

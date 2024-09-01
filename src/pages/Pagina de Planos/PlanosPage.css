@@ -1,0 +1,17 @@
+.container{
+    margin-top: 50px;
+}
+.PlanosPage-container{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.PlanosPage-container h1{
+    font-size: 3rem;
+    color: #333;
+}
+
+.PlanosPage-container p{
+    font-size: 1.2rem;
+    color: #666;
+}

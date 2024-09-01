@@ -1,0 +1,43 @@
+cadastrar-vaga-page {
+    padding: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+  }
+  
+  .btn-cadastrar {
+    padding: 10px 20px;
+    background-color: #FD9800;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .btn-cancelar {
+    padding: 10px 20px;
+    margin-left: 40px;
+    background-color: #fd3700;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .btn-cadastrar:hover {
+    background-color: #e68a00;
+  }

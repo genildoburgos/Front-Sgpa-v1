@@ -1,0 +1,55 @@
+  .bg-01{
+    background-color: #0E2141;
+    color: #0E2141;
+    }
+
+  .logo-img {
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .login-form {
+    width: 80%;
+    max-width: 550px;
+  }
+  
+  .login-form h2 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .login-form input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .login-form button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    color: rgb(47, 47, 47);
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .btn-login {
+    background-color: #FD9800; 
+  }
+  
+  .login-form button:hover {
+    background-color: #909090;
+  }
+  
+  .forgot-password {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .forgot-password:hover {
+    text-decoration: underline;
+  }
+  

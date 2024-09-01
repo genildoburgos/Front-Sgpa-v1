@@ -1,0 +1,63 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.cadastro-page {
+  background-color: #f8f9fa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h2 {
+  color: #333;
+  font-weight: bold;
+}
+
+.form-label {
+  font-weight: bold;
+  color: #333;
+}
+
+.form-control {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.btns{
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  background: none;
+}
+
+.btn-cadastrar {
+  width: 20%;
+  padding: 10px;
+  font-size: 16px;
+  background-color: #FD9800;
+  color: rgb(57, 57, 57);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn-cancelar{
+  width: 20%;
+  padding: 10px;
+  font-size: 16px;
+  background-color: #fd0000;
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn-cadastrar:hover, .btn-cancelar:hover {
+  background-color: #909090;
+}

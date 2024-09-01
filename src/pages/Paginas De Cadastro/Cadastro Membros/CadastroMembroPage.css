@@ -1,0 +1,43 @@
+.cadastro-page{
+  background-color: white;
+}
+
+.schedules-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.schedule-item {
+  flex: 1;
+  min-width: 120px;
+}
+
+.schedule-item label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #333;
+}
+
+.schedule-item input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.btn-cancelar {
+  width: 10%;
+  background-color: #fd0000;
+  color: rgb(255, 255, 255);
+}
+
+.responsavel h3{
+  margin-top: 40px;
+}
+
+.responsavel .row{
+  margin-top: 30px;
+}
